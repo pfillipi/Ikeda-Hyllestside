@@ -14,7 +14,7 @@ Dette prosjektet er en hyllestside dedikert til Dr. Daisaku Ikeda, en fremtreden
 
 Siden presenterer informasjon om Dr. Ikedas liv og prestasjoner, med mål om å gjøre hans arbeid mer tilgjengelig og engasjerende for norske lesere.
 
-Du kan se den live versjonen av siden [her]([https://din-vercel-lenke]).
+Du kan se den live versjonen av siden her: http://ikeda-hyllestside.vercel.app/.
 
 ## Bakgrunn
 
